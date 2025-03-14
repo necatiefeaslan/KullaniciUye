@@ -17,61 +17,61 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KullaniciUye
 build_property.RootNamespace = KullaniciUye
-build_property.ProjectDir = C:\Users\Necati Efe Aslan\Desktop\KullaniciUye\KullaniciUye\
+build_property.ProjectDir = C:\Users\Necati Efe Aslan\OneDrive\Masaüstü\MVC\KullaniciUye\KullaniciUye\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Necati Efe Aslan\Desktop\KullaniciUye\KullaniciUye
+build_property.MSBuildProjectDirectory = C:\Users\Necati Efe Aslan\OneDrive\Masaüstü\MVC\KullaniciUye\KullaniciUye
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Home/Index.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Home/Privacy.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Kullanici/Create.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Kullanici/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Kullanici/Delete.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Kullanici/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Kullanici/Details.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Kullanici/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Kullanici/Edit.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Kullanici/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Kullanici/Index.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Kullanici/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VsbGFuaWNpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Shared/Error.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/_ViewImports.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/_ViewStart.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Necati Efe Aslan/Desktop/KullaniciUye/KullaniciUye/Views/Shared/_Layout.cshtml]
+[C:/Users/Necati Efe Aslan/OneDrive/Masaüstü/MVC/KullaniciUye/KullaniciUye/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1ntjsbcrzu

@@ -3117,11 +3117,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Necati Efe Aslan\\Desktop\\KullaniciUye\\KullaniciUye\\KullaniciUye.csproj",
+      "projectUniqueName": "C:\\Users\\Necati Efe Aslan\\OneDrive\\Masaüstü\\MVC\\KullaniciUye\\KullaniciUye\\KullaniciUye.csproj",
       "projectName": "KullaniciUye",
-      "projectPath": "C:\\Users\\Necati Efe Aslan\\Desktop\\KullaniciUye\\KullaniciUye\\KullaniciUye.csproj",
+      "projectPath": "C:\\Users\\Necati Efe Aslan\\OneDrive\\Masaüstü\\MVC\\KullaniciUye\\KullaniciUye\\KullaniciUye.csproj",
       "packagesPath": "C:\\Users\\Necati Efe Aslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Necati Efe Aslan\\Desktop\\KullaniciUye\\KullaniciUye\\obj\\",
+      "outputPath": "C:\\Users\\Necati Efe Aslan\\OneDrive\\Masaüstü\\MVC\\KullaniciUye\\KullaniciUye\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Necati Efe Aslan\\AppData\\Roaming\\NuGet\\NuGet.Config"

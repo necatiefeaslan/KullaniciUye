@@ -70,26 +70,17 @@ namespace KullaniciUye.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(int id, Kullanici kullanici)
         {
-            if (id != kullanici.Id)
+           var guncellenecekKullanici = _context.Kullanicilar.FirstOrDefault(k => k.Id == id);
+            if (guncellenecekKullanici != null)
             {
-                return NotFound();
+                guncellenecekKullanici.Ad = kullanici.Ad;
+                guncellenecekKullanici.Soyad = kullanici.Soyad;
+                guncellenecekKullanici.Email = kullanici.Email;
+                guncellenecekKullanici.Sifre = kullanici.Sifre;
+                _context.SaveChanges();
+               
             }
-
-            if (ModelState.IsValid)
-            {
-                var existingKullanici = _context.Kullanicilar.FirstOrDefault(k => k.Id == id);
-                if (existingKullanici != null)
-                {
-                    existingKullanici.Ad = kullanici.Ad;
-                    existingKullanici.Soyad = kullanici.Soyad;
-                    existingKullanici.Email = kullanici.Email;
-                    existingKullanici.Sifre = kullanici.Sifre;
-                    _context.Kullanicilar.Update(existingKullanici);
-                    _context.SaveChanges();
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            return View(kullanici);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Kullanici/Delete/5
@@ -104,7 +95,7 @@ namespace KullaniciUye.Controllers
         }
 
         // POST: Kullanici/Delete/5
-        [HttpPost, ActionName("Delete")]
+        [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult DeleteConfirmed(int id)
         {
